@@ -1,5 +1,5 @@
 # Meal Mate - Meal Planning Application
-
+![alt text](image.png)
 ## Project Description
 A full-stack meal planning application with:
 - Flask backend API
